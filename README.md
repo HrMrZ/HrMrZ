@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email at 997544303@qq.com
-- 😄 Pronouns: Chinese
+- 😄 Pronouns: MrZ
 - ⚡ Fun fact: ...
 
 <!---
